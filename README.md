@@ -1,5 +1,5 @@
 # books-scraper
-A Python web scraper which collects books from <a href="https://lubimyczytac.pl/">lubimyczytać.pl<a> using Scrapy framework
+A Python web scraper which collects books data from <a href="https://lubimyczytac.pl/">lubimyczytać.pl<a> using Scrapy framework
   
 ## Table of contest
 * [General info](#general-info)

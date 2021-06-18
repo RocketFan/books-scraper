@@ -1,0 +1,6 @@
+# Web scraping
+scrapy>=2.4.1
+
+# Visualization
+tqdm
+colorama # for windows

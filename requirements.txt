@@ -1,6 +1,7 @@
 # Web scraping
 scrapy>=2.4.1
+protego #needed by scrapy
 
 # Visualization
 tqdm
-colorama # for windows
+colorama #for windows
